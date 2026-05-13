@@ -1,0 +1,6 @@
+{
+  "name": "猜數字遊戲",
+  "description": "一個經典的 1-100 猜數字 React 遊戲",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
