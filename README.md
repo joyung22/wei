@@ -84,7 +84,7 @@ src/
 - **前端框架：** React 19
 - **構建工具：** Vite 6
 - **語言：** TypeScript
-- **樣式：** Tailwind CSS 4
+- **樣式：** Tailwind CSS 3
 - **動畫：** Motion
 - **圖標：** Lucide React
 - **AI 整合：** Google Generative AI
